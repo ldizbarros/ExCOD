@@ -6,6 +6,7 @@ public class ExCOD1Av {
         System.out.println("Hola caracola");
         System.out.println("Que tal??");
         System.out.println("------------------------");
+        System.out.println("Yo muy bien y tu??");
     }
     
 }
